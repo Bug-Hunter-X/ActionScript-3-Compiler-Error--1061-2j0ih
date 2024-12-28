@@ -1,0 +1,1 @@
+This example demonstrates a common ActionScript 3 compiler error: 1061: Call to a possibly undefined method myFunction(). This error occurs when you attempt to call a function that hasn't been defined or is not accessible in the current scope.  The solution shows how to correctly define and call the function.
